@@ -35,7 +35,7 @@ public class Main extends Application {
 		try {						
 			primaryStage.setTitle("Gestión COVID");
 			
-			//----    ----    ----    --------    --------    ----
+			//----    ----    ----    --------    --------    ----   ----
 			//panel de gestión ----    ----    ----    ----    ----
 	        GridPane grdPanelGestion = new GridPane();
 	        grdPanelGestion.setVgap(10);
